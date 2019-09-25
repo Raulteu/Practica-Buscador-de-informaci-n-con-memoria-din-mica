@@ -1,0 +1,27 @@
+﻿  listacadenas.cpp
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\listacadenas.h(17): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tListaCadenas' cuando no hay ninguna variable declarada
+  Generando código...
+  Compilando...
+  main.cpp
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\listacadenas.h(17): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tListaCadenas' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\matrices.h(5): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\creadorindices.h(17): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tVisitados' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\creadorindices.h(23): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tNoVisitados' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\creadorindices.h(29): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tTotal' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\main.cpp(34): warning C4101: 'M´': variable local sin referencia
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\main.cpp(24): warning C4101: 'pos': variable local sin referencia
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\main.cpp(24): warning C4101: 'tamanio': variable local sin referencia
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\main.cpp(24): warning C4101: 'opc': variable local sin referencia
+  TablaClaveValor.cpp
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\listacadenas.h(17): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tListaCadenas' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\tablaclavevalor.cpp(72): warning C4101: 'pos2': variable local sin referencia
+  CreadorIndices.cpp
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\listacadenas.h(17): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tListaCadenas' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\matrices.h(5): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\creadorindices.h(17): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tVisitados' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\creadorindices.h(23): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tNoVisitados' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\creadorindices.h(29): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tTotal' cuando no hay ninguna variable declarada
+c:\users\raúl\desktop\raúl\universidad\fp - fundamentos de la programación\practica 5\practica 4 acabada\creadorindices.cpp(39): warning C4551: la llamada a la función no tiene lista de argumentos
+  Generando código...
+  Project1.vcxproj -> C:\Users\Raúl\Desktop\Raúl\Universidad\FP - Fundamentos de la Programación\Practica 5\PRACTICA 4 ACABADA\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Raúl\Desktop\Raúl\Universidad\FP - Fundamentos de la Programación\Practica 5\PRACTICA 4 ACABADA\Debug\Project1.pdb (Partial PDB)

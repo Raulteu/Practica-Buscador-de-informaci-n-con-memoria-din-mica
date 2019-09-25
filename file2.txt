@@ -1,0 +1,6 @@
+hola adios
+otro ejemplo con saludos
+<TextFile1.txt>
+<file3.txt>
+<file0.txt>
+<file5.txt>

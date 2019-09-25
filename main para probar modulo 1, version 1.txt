@@ -1,0 +1,72 @@
+#include "TablaClaveValor.h"
+#include<iostream>
+#include<string>
+
+
+using namespace std;
+
+int menu();
+
+int main()
+{
+	tListaCadenas lista;
+	lista.cont = 0;
+	int opc, tamanio, pos;
+	string palabra, nueva, buscada;
+	bool encontrada;
+	opc = menu();
+	while (opc != 0)
+	{
+		switch (opc)
+		{
+		case 1:
+			tamanio = getTamano(lista);
+			cout << "El tamanio de la lista es: " << tamanio << endl;
+			break;
+		case 2:
+			cout << "Que posicion quieres saber?" << endl;
+			cin >> pos;
+			palabra = getCadena(lista, pos);
+			cout << "En la posicion " << pos << " se encuentra la palabra " << palabra << endl;
+			break;
+		case 3:
+			cout << "Que palabra quieres insertar?" << endl;
+			cin >> nueva;
+			insertar(lista, nueva);
+			break;
+		case 4:
+			cout << "Que palabra buscas?" << endl;
+			cin >> buscada;
+			encontrada = buscar(lista, buscada);
+			if (encontrada) { cout << "La palabra " << buscada << " esta en la lista" << endl; }
+			else { cout << "La palabra " << buscada << " no esta en la lista" << endl; }
+			break;
+		case 5:
+			cout << "Que posicion quieres eliminar?" << endl;
+			cin >> pos;
+			eliminar(lista, pos);
+			break;
+		case 6:
+			imprimir(lista);
+			break;
+		case 0:
+			break;
+		}
+		opc = menu();
+	}
+}
+
+int menu()
+{
+	int opc;
+	cout << "Seleccion una opcion:" << endl;
+	cout << "1. Saber el tamanio de la lista" << endl;
+	cout << "2. Saber la palabra en una posicion" << endl;
+	cout << "3. Insertar un elemento a la lista" << endl;
+	cout << "4. Buscar un elemento en la lista" << endl;
+	cout << "5. Eliminar un elemento de la lista" << endl;
+	cout << "6. Mostrar lista" << endl;
+	cout << "0. Salir" << endl;
+	cin >> opc;
+	return opc;
+}

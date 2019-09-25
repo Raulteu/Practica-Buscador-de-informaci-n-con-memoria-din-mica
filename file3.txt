@@ -1,0 +1,2 @@
+vamos avanzando, ahora probaremos a generar un grafo mas complicado
+<TextFile1.txt>

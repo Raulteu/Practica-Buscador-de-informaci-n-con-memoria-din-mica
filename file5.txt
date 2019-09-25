@@ -1,0 +1,5 @@
+<file2.txt>
+
+<file0.txt>
+
+Otro archivo que tiene dos enlaces.
